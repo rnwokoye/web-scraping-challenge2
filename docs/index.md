@@ -11,7 +11,7 @@
     <div class="container-fluid">
         <div class="jumbotron text-center">
             <h1>Mission to Mars</h1>
-            <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">Scrape New Data</a></p>
+            <p><a class="btn btn-primary btn-lg" href="scrape_mars" role="button">Scrape New Data</a></p>
         </div>
         <section class="row">
             <div class="col-sm-12">
